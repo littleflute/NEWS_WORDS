@@ -1,3 +1,2 @@
-### [v0.0.3](https://github.com/littleflute/NEWS_WORDS/edit/master/files/readme.md) [me]()
-### [..](..) 
-## [2018](2019)
+### [v0.0.4](https://github.com/littleflute/NEWS_WORDS/edit/master/files/readme.md) [..](..) 
+## [2018](2018)
