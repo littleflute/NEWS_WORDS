@@ -1,0 +1,15 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is 02F0-3A78
+
+ Directory of C:\Users\13699\Downloads\voa\NewsWords\2019\January\10
+
+2019/05/08  12:09    <DIR>          .
+2019/05/08  12:09    <DIR>          ..
+2019/05/08  12:09                 0 i.txt
+2019/05/08  12:00             1,954 index.html
+2019/04/05  01:23             5,251 mp4i.bat
+2019/05/06  22:53            24,771 plx.js
+2019/05/08  12:03             3,853 t.js
+2019/05/08  12:00         3,068,186 v0.mp4
+               6 File(s)      3,104,015 bytes
+               2 Dir(s)  245,946,474,496 bytes free
