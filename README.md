@@ -1,4 +1,4 @@
-### [v0.0.5](https://github.com/littleflute/NEWS_WORDS/edit/master/README.md) [me](https://littleflute.github.io/NEWS_WORDS/)
+﻿### [v0.0.11](https://github.com/littleflute/NEWS_WORDS/edit/master/README.md) [me](https://littleflute.github.io/NEWS_WORDS/)
 ### [files](files)
 ## [【voa】](https://littleflute.github.io/voa/)
 
