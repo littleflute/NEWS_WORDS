@@ -1,0 +1,63 @@
+//alert("i");
+var v = bl$("id_div_" + "plxName-i.js"); 
+v.innerHTML = "i.js test v0.0. 41 ";
+var b1	=  blo0.blBtn( v , v.id + "b1" , "b1", "gold" );
+ 
+b1.n = 0;
+b1.v1 = blo0.blDiv(v, v.id + "v1" , "v1", "lightgreen");
+b1. onclick = function(){
+	b1.n++;
+	b1.v1.innerHTML = b1.n;	
+}
+
+var btnTitle	=  blo0.blBtn( v , v.id + "btnTitle	" , "title", "brown" );
+btnTitle. onclick  = function(){
+	this.v= blo0.blDiv(v, this.id + "v" , "v", "lightblue");
+	this.v.innerHTML = ftnI;
+	var a = this.v.innerHTML;
+	var b = a.split("/*");
+	var c = b[1].split(";;");
+	this.v.innerHTML = c[0];	
+	this.v.onclick = function(){		b1.v1.innerHTML = btnTitle.v.id;		}
+}
+
+var btnBody	=  blo0.blBtn( v , v.id + " btnBody	" , " Body	", "lightRed" );
+btnBody	. onclick  = function(){
+	this.v= blo0.blDiv(v, this.id + "v" , "v", "lightYellow");
+	this.v.innerHTML = ftnI;
+	var a = this.v.innerHTML;
+	var b = a.split("/*");
+	var c = b[1].split(";;");
+	this.v.innerHTML = c[1];	
+
+	this.v.onclick = function(){		b1.v1.innerHTML = btnBody.v.id;		}
+}
+
+
+var btnParseBody	=  blo0.blBtn( v , v.id + " btnParseBody	" , " ParseBody	", "purple" );
+btnParseBody	. onclick  = function(){
+	b1.v1.innerHTML = btnBody	.v.innerHTML;
+	var m = document.getElementsByTagName("textarea"); var p = m[0]; p.value = this.id;
+}
+
+//=======================================================================================================
+var ftnI = function(){//ftnI;
+/*
+
+IMPEDE;;
+
+Welcome to the Voice of America's News Words.
+The war in Yemen has caused many people there, especially children, to suffer.
+
+IMPEDE
+
+
+The regional chief of the United Nations children's agency visited children affected by the war in the Yemeni city of Hodeida. He said authorities are making it difficult to deliver needed humanitarian aid, including food and medicine. He warned that efforts to impede relief could cause massive starvation and disease.
+
+
+To impede something is to delay or block its progress or movement.
+When an action is impeded, it is difficult to complete.
+
+
+*/
+}
